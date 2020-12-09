@@ -1,0 +1,101 @@
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #00ff00;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+
+.navbar-default {
+    background-color: #00ff00;
+    border-color: #00ff91;
+    font-family: "Bebas Neue", monospace;
+    font-size: 1.5vw;
+}
+
+.navbar-default .navbar-nav>li:hover {
+    background-color: #fefefe;
+}
+
+#pic {
+    border: 3px groove;
+    border-color: #00ff91;
+    width: 100%;
+}
+
+.navbar-brand img {
+    max-height: 45px;
+    position: relative;
+    top: -15px;
+    border: none;
+}
+
+body {
+    background-image: url("../fm/FONDOPAGINA.jpg");
+    background-size: cover;
+    background-color: #122212;
+    font-family: "quicksand", sans-serif;
+    font-weight: 500;
+    color: #fefefe;
+}
+
+#uno {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    color: #fefefe;
+    font-family: "Bebas Neue", monospace;
+    font-size: 8vw;
+    text-align: center;
+    border-bottom-style: groove;
+    border-bottom-width: 5px;
+    border-bottom-color: #00ff91;
+    margin-right: 10%;
+    margin-left: 10%;
+    line-height: 1;
+}
+
+p {
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 1.5;
+    text-align: left;
+}
+
+footer {
+    opacity: 0.9;
+    background-color: #212121;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+
+.btn{
+    font-weight: 800;
+    color: #000;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #00ff00;
+    border-color: #00ff91;
+}
+
+.btn-default {
+    color: #000;
+    border-color: #00ff91;
+}
+
+p.rite {
+    text-align: right;
+}
+
+.btn-group {
+    margin-top: 5%;
+}
+

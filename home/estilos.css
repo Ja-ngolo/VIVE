@@ -1,0 +1,141 @@
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #00ff00;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+
+.navbar-default {
+    background-color: #00ff00;
+    border-color: #00ff91;
+    font-family: "Bebas Neue", monospace;
+    font-size: 1.5vw;
+}
+
+.navbar-default .navbar-nav>li:hover {
+    background-color: #fefefe;
+}
+
+.navbar-brand img {
+    max-height: 45px;
+    position: relative;
+    top: -15px;
+}
+
+body {
+    background-image: url("../fm/FONDOPAGINA.jpg");
+    background-size: contain;
+    background-color: #122212;
+    font-family: "quicksand", sans-serif;
+    font-weight: 500;
+    color: #fefefe;
+}
+
+h1 {
+    color: #fefefe;
+    font-family: "Bebas Neue", monospace;
+    font-size: 10vw;
+    text-align: center;
+    border-bottom-style: groove;
+    border-bottom-width: 5px;
+    border-bottom-color: #00ff91;
+    margin-right: 20%;
+    margin-left: 20%;
+    line-height: 1;
+}
+
+h2 {
+    color: #fefefe;
+    font-family: "Bebas Neue", monospace;
+    font-size: 6vw;
+    text-align: left;
+    line-height: 1;
+}
+
+h3 {
+    color: #dcdcdc;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    font-size: 2vw;
+    line-height: 1;
+}
+
+p {
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: 1.5;
+}
+
+footer {
+    opacity: 0.9;
+    background-color: #212121;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
+
+img.pic {
+    border: 3px groove;
+    border-color: #00ff91;
+    width: 100%;
+}
+
+img.serv-p {
+    border: 3px groove;
+    border-color: #00ff91;
+    width: 100%;
+}
+
+img.serv-p:hover {
+    opacity: 0.7;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#proy {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#serv {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#prem {
+    background-color: #00ff00;
+    align-content: center;    
+}
+
+#hak {
+    font-size: 4vw;
+    text-align: center;
+    margin-bottom: 2.5px;
+    margin-top: 2%;
+}
+
+#hak:hover {
+    color: #010101;
+    text-decoration: none;
+}
+
+#tos {
+    color: #fefefe;
+    font-size: 0.6vw;
+    text-align: center;
+    margin-top: 2.5px;
+    margin-bottom: 2%;
+}
+
+p.serv-t {
+    text-align: center;
+}
+
+p.rite {
+    text-align: right;
+}
